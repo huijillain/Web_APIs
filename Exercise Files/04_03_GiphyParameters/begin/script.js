@@ -25,3 +25,5 @@ request.send();
 // Under data: bitly_git_url:"   "
 // the link in "    " showing cats GIPHY :):)
 // Pay attention to line 3:......?......&....&....
+
+// What is going on with my request? HTTP Response Status Codes : 200s-good; 300s-redirect; 400s- client error; 500s-server error
